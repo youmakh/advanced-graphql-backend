@@ -1,6 +1,6 @@
 # How To Launch
 
-```
+```bash
 yarn install        # install modules
 docker-compose up   # run prisma and mysql server
 prisma generate     # generate prisma client
